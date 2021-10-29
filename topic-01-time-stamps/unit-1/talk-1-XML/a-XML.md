@@ -1,4 +1,4 @@
 Another Video Link Example
 
-Anpther example, using min/sec syntax, Start:6m, End:6m30s.
+Anpther example, linking to Start:500, End:530.
 

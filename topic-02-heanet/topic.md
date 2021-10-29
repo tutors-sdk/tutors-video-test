@@ -1,3 +1,3 @@
-# Units
+# HEANet Hosted Video
 
-This topic has 3 units - each unit has lectures + lab
+Example of video hosted on Heanet Media

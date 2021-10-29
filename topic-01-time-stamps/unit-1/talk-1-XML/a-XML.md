@@ -1,4 +1,4 @@
 Another Video Link Example
 
-Anpther example, linking to Start:500, End:530.
+Linking to Start:500, End:530
 
